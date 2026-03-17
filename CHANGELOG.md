@@ -2,7 +2,22 @@
 
 ## Unreleased
 
-No changes yet.
+## v2.37.0
+
+* Update SDK build tools to `36.0.0`, update SDK command-line tools to `20.0`. - [#467](https://github.com/ReactiveCircus/android-emulator-runner/pull/467)
+* Run action on Node 24. - [#466](https://github.com/ReactiveCircus/android-emulator-runner/pull/466)
+* Update Node and npm packages. - [#466](https://github.com/ReactiveCircus/android-emulator-runner/pull/466)
+
+## v2.36.0
+
+* Remove `--abi` option to better support 16-KB-based system images (#456).
+
+
+## v2.35.0
+
+* Optimize config.ini updates and efficiency improvements report (#436).
+* Fix `pre-emulator-launch-script` (#439).
+* Allow `google_apis_ps16k` as a valid target (#440).
 
 ## v2.34.0
 
