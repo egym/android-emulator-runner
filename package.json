@@ -44,8 +44,5 @@
     "prettier": "^3.3.3",
     "ts-jest": "^29.2.5",
     "typescript": "^5.5.4"
-  },
-  "overrides": {
-    "handlebars": "^4.7.9"
   }
 }
